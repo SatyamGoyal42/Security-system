@@ -24,3 +24,6 @@ Different concepts of C++ programming language, like switch case statements, loo
 ![login](https://github.com/SatyamGoyal42/Security-system/assets/134623961/9dff3f73-9933-4d82-b135-ab44f0a6aeb9)
 
 ##### **Change Password**
+![change pass](https://github.com/SatyamGoyal42/Security-system/assets/134623961/0b313e0f-4880-47c4-b08a-f55c8d8050dd)
+
+### **Thankyou!!**
